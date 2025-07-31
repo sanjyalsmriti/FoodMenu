@@ -110,7 +110,7 @@ export const menuData = [
   {
     id: 11,
     name: "Mango Lassi",
-    type: "drinks",
+    type: "drink",
     offer: "50% off on Happy Hours (3-6 PM)",
     description: "Sweet and creamy mango yogurt drink.",
     image: "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&h=300&fit=crop",
