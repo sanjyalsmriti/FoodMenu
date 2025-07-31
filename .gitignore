@@ -98,4 +98,6 @@ temp/
 docs/
 
 # Vercel
-.vercel 
+.vercel
+SREADME.md
+DEPLOYMENT.md
