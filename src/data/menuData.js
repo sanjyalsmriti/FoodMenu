@@ -10,6 +10,7 @@ export const menuData = [
     price: "RS 120.99",
     category: "appetizer"
   },
+
   {
     id: 2,
     name: "Dal Makhani",
@@ -40,6 +41,7 @@ export const menuData = [
     price: "RS 140.99",
     category: "main"
   },
+
   {
     id: 5,
     name: "Gulab Jamun",
@@ -62,6 +64,7 @@ export const menuData = [
     price: "RS 160.99",
     category: "main"
   },
+
   {
     id: 7,
     name: "Butter Chicken",
@@ -76,7 +79,7 @@ export const menuData = [
     id: 8,
     name: "Lamb Rogan Josh",
     type: "non-vegetarian",
-    offer: "20% off for Seniors",
+    offer: "25% off for Seniors",
     description: "Slow-cooked lamb in aromatic Kashmiri spices.",
     image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=400&h=300&fit=crop",
     price: "RS 190.99",
