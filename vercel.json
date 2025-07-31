@@ -6,8 +6,8 @@
   "devCommand": "npm run dev",
   "regions": ["iad1"],
   "functions": {
-    "app/api/**/*.js": {
-      "runtime": "nodejs18.x"
+    "api/**/*.js": {
+      "runtime": "@vercel/node@18"
     }
   },
   "headers": [
